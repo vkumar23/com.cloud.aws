@@ -15,7 +15,7 @@ public class Application {
 
 @GetMapping("/message")
  public String getMessage() {
-	 return "application on EC2";
+	 return "application on EC2  ";
 	// TODO Auto-generated method stub
 
 }
